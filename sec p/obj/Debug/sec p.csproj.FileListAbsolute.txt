@@ -1,0 +1,7 @@
+C:\Users\Sushant Hulawal\OneDrive\Desktop\sec p\sec p\bin\Debug\sec p.exe.config
+C:\Users\Sushant Hulawal\OneDrive\Desktop\sec p\sec p\bin\Debug\sec p.exe
+C:\Users\Sushant Hulawal\OneDrive\Desktop\sec p\sec p\bin\Debug\sec p.pdb
+C:\Users\Sushant Hulawal\OneDrive\Desktop\sec p\sec p\obj\Debug\sec p.csproj.AssemblyReference.cache
+C:\Users\Sushant Hulawal\OneDrive\Desktop\sec p\sec p\obj\Debug\sec p.csproj.CoreCompileInputs.cache
+C:\Users\Sushant Hulawal\OneDrive\Desktop\sec p\sec p\obj\Debug\sec p.exe
+C:\Users\Sushant Hulawal\OneDrive\Desktop\sec p\sec p\obj\Debug\sec p.pdb
